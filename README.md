@@ -1,6 +1,6 @@
 ## Hey, gogobody here! :wave: 
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=gogobody&show_icons=true">
 
 I'm G**o** G**o**bo**dy**, a student from Chongqing, China.
 
