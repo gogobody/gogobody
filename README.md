@@ -9,17 +9,8 @@ I'm G**o** G**o**bo**dy**, a student from Chongqing, China.
 -   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code / jet brains
 -   :seedling: Preparing for master's degree
 -   :man: Pronouns: he/him
--   :thinking: Wondering why my README has more [forks] than [stars]
+-   :thinking: how to a rich man
 
 
-#### :bar_chart: Weekly development breakdown
-
-<!--START_SECTION:waka-->
-```text
-HTML       2 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.76 % 
-C++        2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 % 
-Markdown   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TOML       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Bash       26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-```
-<!--END_SECTION:waka-->
+![gogobody's Github Stats](https://github-readme-stats.vercel.app/api?username=gogobody&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![gogobody's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogobody&layout=compact&langs_count=8&theme=dracula)
