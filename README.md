@@ -12,5 +12,4 @@ I'm G**o** G**o**bo**dy**, a student from Chongqing, China.
 -   :thinking: how to a rich man
 
 
-![gogobody's Github Stats](https://github-readme-stats.vercel.app/api?username=gogobody&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 ![gogobody's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogobody&layout=compact&langs_count=8&theme=dracula)
