@@ -9,7 +9,7 @@ I'm G**o** G**o**bo**dy**, a student from Chongqing, China.
 -   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code / jet brains
 -   :seedling: Preparing for master's degree
 -   :man: Pronouns: he/him
--   :thinking: how to a rich man
+-   :thinking: what is modern design
 
 
 ![gogobody's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogobody&layout=compact&langs_count=8&theme=dracula)
